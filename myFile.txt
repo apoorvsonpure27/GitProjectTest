@@ -6,3 +6,5 @@ Welcome to git .....
 change 1 -to test revert
 
 change 2 - to fix the bug1
+
+change 3 - to  fix the bug2
