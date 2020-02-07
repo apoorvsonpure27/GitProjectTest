@@ -7,4 +7,7 @@ change 1 -to test revert
 
 change 2 - to fix the bug1
 
-change - made by team from remote server
+change 3 - made by team from remote server
+
+change 4 - to  fix the bug2
+
