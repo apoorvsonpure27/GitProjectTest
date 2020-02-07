@@ -1,5 +1,7 @@
 This is the code for rebase
 
-change to test push  to remote repository
+change 1 -to test push  to remote repository
 
-change madeby my team member from his feature on pushed remote repo
+change 2- madeby my team member from his feature on pushed remote repo
+
+Chnage 3 - for checking change in hypens
